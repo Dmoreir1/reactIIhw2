@@ -1,12 +1,15 @@
 
 import './App.css';
+// import pasta from './Pasta.jpg'
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        {/* <img src={logo} className="App-logo" alt="logo" /> */}
-        <p className='square'>
+      <header className="square">
+        {/* <img className= 'Pasta' src={pasta} /> */}
+        <p className='text'>
+          
           Hello, World! 
         </p>
        
