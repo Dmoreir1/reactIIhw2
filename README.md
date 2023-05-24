@@ -1,1 +1,1 @@
-## This is my React HW 2 - thanks for stopping by! 
+## This is my mini react hw project - nothing crazy just pasta!
