@@ -41,7 +41,9 @@
   justify-content: center;
   padding: 30%;
   text-align: center;
-  width: 100%;
+  width: 5%;
   height: 150%;
   background-color:mediumslateblue;
+  color:aliceblue;
+  font-size: larger;
 }
